@@ -657,10 +657,10 @@ label.error {
   font-size: 1em;
   letter-spacing: 0.32em;
   position: absolute;
-  z-index: 3;
   color: #fff;
   left: 35vmin;
   top: 2.5vmin;
+  width: 12rem;
 }
 
 @media (max-width: 480px) {
